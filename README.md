@@ -14,5 +14,5 @@ https://numpy.org/install/
 
 <h2>🚀 Executando o Algoritmo</h2>
 
-Como o algoritmo requer um grande número de funcionalidades, As funções ficaram em um arquivo separado ó [functions.py](), para deixar o código mais organizado, sendo assim, o arquivo principal é que deve ser executado é o [bankers-algorithm.py]().
+Como o algoritmo requer um grande número de funcionalidades, As funções ficaram em um arquivo separado ó [functions.py](https://github.com/jose-rgb/bankers-algorithm/blob/main/functions.py), para deixar o código mais organizado, sendo assim, o arquivo principal é que deve ser executado é o [bankers-algorithm.py](https://github.com/jose-rgb/bankers-algorithm/blob/main/bankers-algorithm.py).
 
