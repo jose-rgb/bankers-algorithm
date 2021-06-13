@@ -3,10 +3,10 @@ from functions import *
 
 
 def main():
-    print(12 * '#' + '-Bankers algorithm-' + 12 * '#')
-    qtd_processos = int(input('Quantos processos estão em execução: '))
+    print(16 * '#' + '-Bankers algorithm-' + 16 * '#')
+    qtd_processos = int(input('Quantos processos estão em execução? '))
 
-    qtd_tipos_recursos = int(input('Digite quantos tipos de recursos necessitará cada processo: '))
+    qtd_tipos_recursos = int(input('Quantos tipos de recursos cada processo vai necessitar? '))
 
     recursos_totais = get_recursos_totais(qtd_tipos_recursos)
 
