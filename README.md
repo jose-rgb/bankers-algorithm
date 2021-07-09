@@ -1,22 +1,22 @@
-<h2> 👨🏻‍💻 O algoritmo do banqueiro é um algoritmo clássico utilizado para evitar deadlock e foi estabelecido por Dijkstra e Habemann em 1965. Esse nome foi escolhido por tratar do problema através da seguinte analogia: um banqueiro (o Sistema Operacional) de uma pequena cidade pode negociar com um grupo de clientes (os processos), aos quais ele libera linhas de crédito (que são recursos do sistema). O algoritmo tem como função determinar se a liberação de uma requisição é capaz de levar o sistema a um estado inseguro; se for este o caso, o banqueiro nega a requisição. Algoritmo do banqueiro para um único tipo de recurso Neste caso, para saber se um estado é seguro ou não, o banqueiro leva em consideração cada solicitação de empréstimo. Ele verifica se dispõe de recursos suficientes para atender algum dos clientes. Caso tenha, ele assume que os empréstimos feitos a este cliente serão pagos (devolvidos); em seguida, é considerado o cliente mais próximo do limite de recursos e assim por diante. Se todos os empréstimos puderem ser pagos (devolvidos), o estado é considerado seguro e a requisição inicial pode ser atendida.</h2>
+<h2> 👨🏻‍💻 The banker's algorithm is a classic algorithm used to avoid deadlock and was established by Dijkstra and Habemann in 1965. This name was chosen because it addresses the problem through the following analogy: a banker (the Operating System) in a small town can trade with one customer group (the processes), to which it releases lines of credit (which are system resources). The algorithm's function is to determine if the release of a request is capable of taking the system to an insecure state; if this is the case, the banker denies the request. Banker's Algorithm for a Single Resource Type In this case, to know whether a state is safe or not, the banker takes into account each loan request. He checks if he has enough resources to serve any of the customers. If so, it assumes that the loans made to this customer will be paid (returned); then it is considered the client closest to the resource limit, and so on. If all loans can be repaid (returned), the state is considered secure and the initial application can be granted..</h2>
 
 
-<h2>🛠 Dependências</h2>
+<h2>🛠 dependencies</h2>
 
 É necessário voçê ter o [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) instalado.
 ```
 https://www.python.org/downloads/
 ```
-É a biblioteca [Numpy](https://numpy.org/)
+is the library [Numpy](https://numpy.org/)
 ```
 https://numpy.org/install/
 ```
 
-<h2>🚀 Executando o Algoritmo</h2>
+<h2>🚀 Running the Algorithm</h2>
 
-Como o algoritmo requer um grande número de funcionalidades, As funções ficaram em um arquivo separado ó [functions.py](https://github.com/jose-rgb/bankers-algorithm/blob/main/functions.py), para deixar o código mais organizado, sendo assim, o arquivo principal é que deve ser executado é o [bankers-algorithm.py](https://github.com/jose-rgb/bankers-algorithm/blob/main/bankers-algorithm.py).
+As the algorithm requires a large number of features, the functions were in a separate file or [functions.py](https://github.com/jose-rgb/bankers-algorithm/blob/main/functions.py), to make the code more organized, so the main file should be executed is the [bankers-algorithm.py](https://github.com/jose-rgb/bankers-algorithm/blob/main/bankers-algorithm.py).
 
-<h2>🎥Vídeo Demonstrativo </h2>
+<h2>🎥 Demo Video </h2>
 <a href="https://youtu.be/VnJoLpywogw">
     <img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384060.png"  height="40" width="40" />
 <a>
