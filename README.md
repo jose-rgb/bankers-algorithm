@@ -3,7 +3,7 @@
 
 <h2>🛠 dependencies</h2>
 
-É necessário voçê ter o [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) instalado.
+You must have [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) installed.
 ```
 https://www.python.org/downloads/
 ```
