@@ -15,8 +15,3 @@ https://numpy.org/install/
 <h2>🚀 Running the Algorithm</h2>
 
 As the algorithm requires a large number of features, the functions were in a separate file or [functions.py](https://github.com/jose-rgb/bankers-algorithm/blob/main/functions.py), to make the code more organized, so the main file should be executed is the [bankers-algorithm.py](https://github.com/jose-rgb/bankers-algorithm/blob/main/bankers-algorithm.py).
-
-<h2>🎥 Demo Video </h2>
-<a href="https://youtu.be/VnJoLpywogw">
-    <img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384060.png"  height="40" width="40" />
-<a>
